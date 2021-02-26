@@ -23,7 +23,7 @@ export function CountdownProvider({children}:CountdownProviderProps){
 
     const {startNewChallenge} = useContext(challengesContext);
 
-    const [time ,setTime] =useState(0.1*60);
+    const [time ,setTime] =useState(25*60);
     const [isActive,setisActive]= useState(false)//estado true ou false
     const [hasFinished,setHasFinisched]=useState(false)
 
@@ -38,7 +38,7 @@ export function CountdownProvider({children}:CountdownProviderProps){
         clearTimeout(countdownTimeout);//Corrigir erro do -1 seconds
         setisActive(false);
         setHasFinisched(false);
-        setTime(0.1*60);//Valor inicial
+        setTime(25*60);//Valor inicial
     }
 
     //quero executar e quando quero executar, todas as veses que mudar o valor de activer e time chama essa função
