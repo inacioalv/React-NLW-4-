@@ -27,11 +27,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Moveit é uma aplicação que utilizar técnica de comodoro que consistem em cada períodos de 25 minutos de um cronômetro para de trabalho e realiza algum exercico.
 
-<img alt="Moveit" src="public\home.png" />
+
 
 ## 🔖 Layout
 
 Nos links abaixo você encontra o layout do projeto web.Precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+<img alt="Moveit" src="public\home.png" />
 
 - [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=)
 
