@@ -31,8 +31,10 @@ O Moveit é uma aplicação que utilizar técnica de comodoro que consistem em c
 
 ## 🔖 Layout
 
-Nos links abaixo você encontra o layout do projeto web.Precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+Nos links abaixo você encontra o layout do projeto web.Precisa ter uma conta no 
+[Figma](http://figma.com/) para acessá-lo.
 <img alt="Moveit" src="public\home.png" />
+
 
 - [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=)
 
